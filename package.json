@@ -1,0 +1,8 @@
+{
+  "name": "booking-webhooks",
+  "private": true,
+  "scripts": {
+    "start": "node webhooks.js",
+    "test": "node --test"
+  }
+}
